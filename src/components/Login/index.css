@@ -1,0 +1,12 @@
+.bg-color {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.link {
+  text-decoration: none;
+}
+.heading {
+  color: #000000;
+}

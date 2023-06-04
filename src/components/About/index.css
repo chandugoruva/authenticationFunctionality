@@ -1,0 +1,11 @@
+.bg-color {
+  background-color: #ffffff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading {
+  text-decoration: none;
+  font-family: 'Roboto';
+}
